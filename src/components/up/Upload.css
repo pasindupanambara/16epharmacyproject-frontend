@@ -1,0 +1,10 @@
+.invalid-field{
+    border-color: #dc3545;
+    color: #dc3545;
+    background-color: #fff;
+  }
+  .display-6{
+    margin-left: 90px;
+    font-weight: 600;
+    font-size:x-large;
+}

@@ -1,0 +1,31 @@
+export const homeObjOne = {
+    primary:true, 
+    lightBg: false,    
+    imgStart: true, 
+    lightTopLine: true,
+    lightTextDesc:true, 
+    buttonLabel: 'Get Started', 
+    description: 'We help you to get your essential medicinal requirments to your doorstep!', 
+    headline: 'Find the Best Pharmacy for You. We Have Many.',
+    lightText:true,
+    topLine:'YOUR HEALTH - OUR WEALTH',
+    img: require('./img/undraw_medicine_b1ol.svg').default, 
+    alt:'we deliver you the best!',
+    start: true,
+};
+
+export const homeObjTwo = {
+    primary:false, 
+    lightBg: true,
+    imgStart: false, 
+    lightTopLine: false,
+    lightTextDesc:false, 
+    buttonLabel: 'Get Started', 
+    description: 'We help you to get your customers', 
+    headline: 'Let Your Customers Reach You From Home.',
+    lightText:false,
+    topLine:'YOUR HEALTH - OUR WEALTH',
+    img:require('./img/undraw_On_the_way_re_swjt.svg').default,
+    alt:'This is easy!',
+    start: false,
+};

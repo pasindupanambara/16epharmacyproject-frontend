@@ -1,0 +1,79 @@
+.district{
+    background-color: rgb(254, 255, 193);
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: auto;
+    height: auto;
+    padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    }
+    
+/*.districtelement{
+    margin-left: 50px;
+    margin-right: 50px;       
+} */
+
+.districtSelectButton{
+
+    background-color:#e093a6;
+    border-radius: 5pt;
+    font-weight: 520;
+
+}
+/*.column{
+    column-count: 5;
+    column-gap: 150px;
+    column-span: all;    
+}*/
+
+.container h1{
+    text-align: center;
+}
+
+.container h2{
+    text-align: center;
+}
+.display-6{
+    margin-left: 90px;
+    font-weight: 600;
+    font-size:x-large;
+}
+
+.container p{
+    text-align: center;
+}
+
+.container p1{
+    color: blueviolet;
+}
+
+h2{
+    text-align: center;
+    font-size: 15;
+    font-weight: 550;
+}
+
+
+h4{
+
+    text-align:left;
+    font-size: 8;
+    font-weight: 350;
+
+}
+
+
+h5{
+
+    text-align:center;
+    font-size: 3.5vh;
+    font-weight: 650;
+    
+
+
+}
+
+
+
+
